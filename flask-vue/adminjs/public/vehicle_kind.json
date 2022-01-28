@@ -1,0 +1,24 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "轿车",
+            "description": "轿车"
+        },
+        {
+            "id": 2,
+            "name": "SUV",
+            "description": "SUV"
+        },
+        {
+            "id": 3,
+            "name": "皮卡",
+            "description": "皮卡"
+        }
+    ],
+    "pageTotal": 3
+}
+
+
+
+
+

@@ -1,0 +1,48 @@
+{
+    "list": [{
+            "id": 1,
+            "brand": "林肯",
+            "kind": "林肯",
+            "model": "林肯",
+            "state": "已发布"
+        },
+        {
+            "id": 2,
+            "brand": "林肯",
+            "kind": "林肯",
+            "model": "林肯",
+            "state": "已发布"
+        },
+        {
+            "id": 3,
+            "brand": "林肯",
+            "kind": "林肯",
+            "model": "林肯",
+            "state": "未发布"
+        }
+    ],
+    "history": [
+        {
+            "id": 1,
+            "user": "user1 xxx",
+            "time": "2021-12-28 10:30:00",
+            "operation": "release",
+            "desc": "第一次发布"
+        },
+        {
+            "id": 2,
+            "user": "user2 yyy",
+            "time": "2021-12-29 17:10:30",
+            "operation": "cancel release",
+            "desc": "修正图片问题，暂时下架"
+        },
+        {
+            "id": 3,
+            "user": "user2 yyy",
+            "time": "2021-12-30 09:00:00",
+            "operation": "release",
+            "desc": "问题已修正，第二版发布"
+        }
+    ],
+    "pageTotal": 3
+}

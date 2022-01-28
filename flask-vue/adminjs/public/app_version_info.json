@@ -1,0 +1,32 @@
+{
+    "infos": [
+        {
+            "id": 1,
+            "name": "精准导航",
+            "description": "精准导航",
+            "version":"V0.3",
+            "upload_date":"2021-1-7",
+            "status":"上架",
+            "upload_content": "精准导航精准导航精准导航精准导航精准导航精准导航"
+        },
+        {
+            "id": 2,
+            "name": "精准导航",
+            "description": "精准导航",
+            "version":"V0.2",
+            "upload_date":"2021-1-7",
+            "status":"审核通过",
+            "upload_content": "精准导航精准导航精准导航精准导航精准导航精准导航"
+        },
+        {
+            "id": 3,
+            "name": "精准导航",
+            "description": "精准导航",
+            "version":"V0.1",
+            "upload_date":"2021-1-7",
+            "status":"初次上传",
+            "upload_content": "精准导航精准导航精准导航精准导航精准导航精准导航"
+        }
+    ],
+    "pageTotal" : 2
+}

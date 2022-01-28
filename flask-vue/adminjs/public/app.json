@@ -1,0 +1,45 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "高德地图",
+            "summary": "导航导航",
+            "latest_version":"V0.3",
+            "date": "2020-1-6",
+            "state": "已上架",
+            "supplier": "北京高德地图有限公司",
+            "type":"导航出行"
+
+        },
+        {
+            "id": 2,
+            "name": "爱奇艺",
+            "summary": "娱乐影音",
+            "latest_version":"V0.3",
+            "date": "2020-1-6",
+            "state": "审核不通过",
+            "supplier": "北京爱奇艺有限公司",
+            "type":"影音娱乐"
+        },
+        {
+            "id": 3,
+            "name": "喜马拉雅",
+            "summary": "音乐娱乐",
+            "latest_version":"V0.3",
+            "date": "2020-1-6",
+            "state": "已下架",
+            "supplier": "北京喜马拉雅有限公司",
+            "type":"音乐娱乐"
+        },
+        {
+            "id": 4,
+            "name": "微信",
+            "summary": "社交社交",
+            "latest_version":"V0.3",
+            "date": "2020-1-6",
+            "state": "待审核",
+            "supplier": "腾讯信息系统有限公司",
+            "type":"社交"
+        }
+    ],
+    "pageTotal": 4
+}

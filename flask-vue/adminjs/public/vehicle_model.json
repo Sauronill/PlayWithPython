@@ -1,0 +1,30 @@
+{
+    "list": [{
+            "id": 1,
+            "brand": "福特",
+            "kind": "SUV",
+            "name": "福特翼虎 EcoBoost® 180 两驱精翼型",
+            "description": "福特翼虎 EcoBoost® 180 两驱精翼型"
+        },
+        {
+            "id": 2,
+            "brand": "福特",
+            "kind": "轿车",
+            "name": "福克斯2021款 EcoBoost®180 ST Line（三厢）",
+            "description": "福克斯2021款 EcoBoost®180 ST Line（三厢）"
+        },
+        {
+            "id": 3,
+            "brand": "福特",
+            "kind": "轿车",
+            "name": "福克斯2021款 EcoBoost®180锋潮型（两厢）",
+            "description": "福克斯2021款 EcoBoost®180锋潮型（两厢）"
+        }
+    ],
+    "pageTotal": 3
+}
+
+
+
+
+

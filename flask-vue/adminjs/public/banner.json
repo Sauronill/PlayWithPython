@@ -1,0 +1,43 @@
+{
+    "devicegs": [
+        {
+            "id": 1,
+            "brand": "林肯",
+            "kind": "林肯",
+            "model": "林肯"
+        },
+        {
+            "id": 2,
+            "brand": "林肯",
+            "kind": "林肯",
+            "model": "林肯"
+        },
+        {
+            "id": 3,
+            "brand": "林肯",
+            "kind": "林肯",
+            "model": "林肯"
+        }
+    ],
+    "apps": [
+        {
+            "id": 1,
+            "name": "高德地图",
+            "description": "精准导航",
+            "res": "http://139.196.43.11:8000/CardImg/gaodeditu.png"
+        },
+        {
+            "id": 2,
+            "name": "火山车娱",
+            "description": "集成内容生态",
+            "res": "http://139.196.43.11:8000/CardImg/huoshancheyu.png"
+        },
+        {
+            "id": 3,
+            "name": "网易云音乐",
+            "description": "音乐的力量",
+            "res": "http://139.196.43.11:8000/CardImg/wangyiyun.png"
+        }
+    ],
+    "pageTotal": 3
+}

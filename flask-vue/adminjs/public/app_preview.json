@@ -1,0 +1,22 @@
+{
+    "previews": [
+        {
+            "id": 1,
+            "name": "精准导航",
+            "description": "精准导航",
+            "res": "http://139.196.43.11:8000/CardImg/gaodeditu.png"
+        },
+        {
+            "id": 2,
+            "name": "导航规则",
+            "description": "导航规则",
+            "res": "http://139.196.43.11:8000/CardImg/gaodeditu.png"
+        },
+        {
+            "id": 3,
+            "name": "导航规则",
+            "description": "导航规则",
+            "res": "http://139.196.43.11:8000/CardImg/gaodeditu.png"
+        }
+    ]
+}

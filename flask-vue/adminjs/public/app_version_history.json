@@ -1,0 +1,27 @@
+{
+    "infos": [
+        {
+            "id": 1,
+            "name": "xxx",
+            "date":"xxx",
+            "operation":"上传应用",
+            "check":"-"
+        },
+        {
+            "id": 2,
+            "name": "xxx",
+            "date":"xxx",
+            "operation":"上架应用",
+            "check":"文件名"
+
+        },
+        {
+            "id": 3,
+            "name": "xxx",
+            "date":"xxx",
+            "operation":"下架应用",
+            "check":"文件名"
+        }
+    ],
+    "pageTotal" : 3
+}

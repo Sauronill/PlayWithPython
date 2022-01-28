@@ -1,0 +1,22 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "影音娱乐",
+            "description": "影音娱乐类"
+        },
+        {
+            "id": 2,
+            "name": "游戏娱乐",
+            "description": "游戏娱乐类"
+        },
+        {
+            "id": 3,
+            "name": "美食消费",
+            "description": "美食消费类"
+        }
+    ],
+    "pageTotal": 3
+}
+
+
+
